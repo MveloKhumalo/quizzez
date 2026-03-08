@@ -1,0 +1,105 @@
+{
+  "Title": "C++ Pointer and Array Pointer Quiz",
+  "Questions": [
+    {
+      "question": "What does a pointer store in C++?",
+      "options": ["A variable value", "A memory address", "A data type", "A function"],
+      "answer": 1
+    },
+    {
+      "question": "Which operator is used to get the address of a variable?",
+      "options": ["*", "&", "%", "#"],
+      "answer": 1
+    },
+    {
+      "question": "Which operator is used to dereference a pointer?",
+      "options": ["&", "*", "@", "^"],
+      "answer": 1
+    },
+    {
+      "question": "What is the correct declaration of a pointer to an integer?",
+      "options": ["int p;", "int *p;", "pointer int p;", "int &p;"],
+      "answer": 1
+    },
+    {
+      "question": "Given int x = 10; int *p = &x;, what does *p return?",
+      "options": ["Address of x", "Value of x", "Pointer size", "Memory location of p"],
+      "answer": 1
+    },
+    {
+      "question": "If int arr[5]; then what does arr represent?",
+      "options": ["Pointer to first element", "Last element", "Size of array", "Pointer to array size"],
+      "answer": 0
+    },
+    {
+      "question": "What does *(arr + 1) access?",
+      "options": ["arr[0]", "arr[1]", "arr[2]", "arr[3]"],
+      "answer": 1
+    },
+    {
+      "question": "What is equivalent to arr[i] in pointer notation?",
+      "options": ["*(arr + i)", "&(arr + i)", "*arr + i", "arr + i"],
+      "answer": 0
+    },
+    {
+      "question": "What will *(p + 2) access if p points to the first element of an array?",
+      "options": ["First element", "Second element", "Third element", "Fourth element"],
+      "answer": 2
+    },
+    {
+      "question": "If int a[3] = {4,7,11}; what does *a return?",
+      "options": ["4", "7", "11", "Address of array"],
+      "answer": 0
+    },
+    {
+      "question": "Which statement correctly assigns a pointer to an array?",
+      "options": ["int *p = arr;", "int p = &arr;", "int arr = *p;", "int *p = *arr;"],
+      "answer": 0
+    },
+    {
+      "question": "What is the value of *(a + 1) for int a[] = {4,7,11};?",
+      "options": ["4", "7", "11", "Address of 7"],
+      "answer": 1
+    },
+    {
+      "question": "What does &a[0] represent?",
+      "options": ["Value of first element", "Address of first element", "Address of array size", "Pointer arithmetic"],
+      "answer": 1
+    },
+    {
+      "question": "If int *p = a;, what does p[2] represent?",
+      "options": ["a[0]", "a[1]", "a[2]", "Address of a[2]"],
+      "answer": 2
+    },
+    {
+      "question": "What happens when you increment a pointer p using p++?",
+      "options": ["Moves to next memory byte", "Moves to next element of its data type", "Resets pointer", "Deletes pointer"],
+      "answer": 1
+    },
+    {
+      "question": "What does &a return if a is an array?",
+      "options": ["Address of first element", "Address of entire array", "Value of array", "Array size"],
+      "answer": 1
+    },
+    {
+      "question": "Which expression prints the first element of an array using a pointer?",
+      "options": ["p", "*p", "&p", "p*"],
+      "answer": 1
+    },
+    {
+      "question": "Which statement accesses the second element of an array using pointer arithmetic?",
+      "options": ["*(a+2)", "*(a+1)", "*(a+0)", "*(a+3)"],
+      "answer": 1
+    },
+    {
+      "question": "If int *p = arr; which is equivalent to arr[3]?",
+      "options": ["*(p + 2)", "*(p + 3)", "*(p + 4)", "*p + 3"],
+      "answer": 1
+    },
+    {
+      "question": "Why are pointers often used with arrays?",
+      "options": ["To increase array size", "To efficiently access and traverse memory", "To remove elements", "To prevent indexing"],
+      "answer": 1
+    }
+  ]
+}
