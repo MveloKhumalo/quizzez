@@ -56,10 +56,7 @@ class QuizApp {
             "Comp315 material": [
                 'Quiz/comp315/comp315_1.json',
                 'Quiz/comp315/comp315_2.json',
-                'Quiz/comp315/comp315_3.json',
-                'Quiz/comp315/comp315_4.json',
-                'Quiz/comp315/comp315_5.json',
-            ],
+            ]
         };
         
         this.initializeEventListeners();
