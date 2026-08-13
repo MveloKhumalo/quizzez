@@ -55,6 +55,7 @@ class QuizApp {
                 'Quiz/comp204/comp204_3.json',
                 'Quiz/comp204/comp204_4.json',
                 'Quiz/comp204/comp204_5.json',
+                'Quiz/comp204/comp204_6.json',
             ],
             // "Comp315 material": [
             //     'Quiz/comp315/comp315_1.json',

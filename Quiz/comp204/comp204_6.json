@@ -1,0 +1,205 @@
+{
+    "title": "quiz 2 - chapter 1",
+    "questions": [
+        {
+            "question": "What is the difference between computer architecture and computer organization?",
+            "options": [
+                "Architecture refers to visible attributes to the programmer, organization refers to how features are implemented",
+                "Architecture refers to hardware, organization refers to software",
+                "Architecture and organization are the same thing",
+                "Organization refers to visible attributes, architecture refers to implementation"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which IBM system architecture introduced in 1970 allowed customers to upgrade to faster models without abandoning software?",
+            "options": [
+                "IBM System/360",
+                "IBM System/370",
+                "IBM System/390",
+                "IBM System/360"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What are the four basic functions that a computer can perform?",
+            "options": [
+                "Data processing, data storage, data movement, and control",
+                "Input, processing, output, and storage",
+                "Fetch, decode, execute, and store",
+                "Arithmetic, logic, control, and memory"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What are the four main structural components of a computer?",
+            "options": [
+                "CPU, main memory, I/O, and system interconnection",
+                "ALU, control unit, registers, and memory",
+                "Processor, cache, RAM, and hard drive",
+                "Input, output, processing, and storage"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What are the three major structural components of the CPU?",
+            "options": [
+                "Control unit, ALU, and registers",
+                "Cache, RAM, and ROM",
+                "Processor, memory, and I/O",
+                "Input unit, output unit, and processing unit"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Who is credited with the stored program concept that became the fundamental design approach for computers?",
+            "options": [
+                "Alan Turing",
+                "John von Neumann",
+                "Charles Babbage",
+                "Ada Lovelace"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "When was the IAS computer completed and what was its significance?",
+            "options": [
+                "1945 - First electronic computer",
+                "1952 - Prototype of all subsequent general-purpose computers",
+                "1950 - First commercial computer",
+                "1948 - First stored program computer"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is Moore's Law primarily about?",
+            "options": [
+                "The number of transistors on a chip doubles approximately every two years",
+                "Computer speed doubles every year",
+                "Memory capacity doubles every six months",
+                "Computer prices halve every year"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the function of cache memory in a computer system?",
+            "options": [
+                "To permanently store data",
+                "To speed up memory access by storing frequently used data",
+                "To replace main memory",
+                "To store the operating system"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following best describes a multicore processor?",
+            "options": [
+                "A processor with multiple cache levels",
+                "A processor with multiple cores on a single chip",
+                "A processor with multiple memory controllers",
+                "A processor with multiple I/O channels"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What was the main technology used in first generation computers?",
+            "options": [
+                "Transistors",
+                "Integrated circuits",
+                "Vacuum tubes",
+                "Microprocessors"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "How does the hierarchical nature of complex computer systems benefit designers?",
+            "options": [
+                "It reduces the need for testing",
+                "It makes computers faster",
+                "It allows designers to deal with a particular level of the system at a time",
+                "It eliminates the need for architecture"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the Internet of Things (IoT) primarily characterized by?",
+            "options": [
+                "Large mainframe computers",
+                "Billions of interconnected embedded devices and sensors",
+                "Personal computers only",
+                "Wireless networks only"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the difference between an application processor and a dedicated processor in embedded systems?",
+            "options": [
+                "Application processors are slower than dedicated processors",
+                "Application processors are general-purpose while dedicated processors are designed for specific tasks",
+                "Dedicated processors are more expensive than application processors",
+                "There is no difference between them"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which component is responsible for managing the computer's resources and orchestrating the performance of its functional parts?",
+            "options": [
+                "ALU",
+                "Control unit",
+                "Registers",
+                "Main memory"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is a deeply embedded system characterized by?",
+            "options": [
+                "Complex user interfaces",
+                "General-purpose computing capabilities",
+                "Difficult to observe behavior and extreme resource constraints",
+                "Large memory capacity"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the fundamental building block used to construct processors, memories, and other digital logic devices?",
+            "options": [
+                "Integrated circuit",
+                "Transistor",
+                "Vacuum tube",
+                "Resistor"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following is TRUE about the System/370 architecture?",
+            "options": [
+                "It was introduced in 1960",
+                "It protected software investment when upgrading to faster models",
+                "It was quickly abandoned",
+                "It only had a single model"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the relationship between a core and a processor?",
+            "options": [
+                "A core is larger than a processor",
+                "A processor is a physical chip that can contain one or more cores",
+                "Core and processor are the same thing",
+                "A core contains multiple processors"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What was the significance of the IAS computer?",
+            "options": [
+                "It was the first commercial computer",
+                "It was the prototype of all subsequent general-purpose computers",
+                "It was the first computer to use transistors",
+                "It was the first computer with a graphical interface"
+            ],
+            "correctAnswer": 1
+        }
+    ]
+}
