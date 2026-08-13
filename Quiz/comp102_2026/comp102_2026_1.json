@@ -1,0 +1,155 @@
+{
+    "title": "Java Basics Quiz - Lectures 1 to 5",
+    "questions": [
+        {
+            "question": "What is the correct way to declare and initialize an integer variable in Java?<br><br><pre><code class=\"language-java\">// Which option is correct?</code></pre>",
+            "options": [
+                "int number = 10;",
+                "int number = 10",
+                "Integer number = 10;",
+                "Both A and C"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the output of this code?<br><br><pre><code class=\"language-java\">int x = 5;<br>int y = 2;<br>System.out.println(x % y);</code></pre>",
+            "options": [
+                "2",
+                "2.5",
+                "1",
+                "0"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of the following is a valid Java class name according to the naming conventions?",
+            "options": [
+                "myClass",
+                "MyClass",
+                "my_class",
+                "myclass"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does this code print?<br><br><pre><code class=\"language-java\">int num = 7;<br>if (num % 2 == 0) {<br>    System.out.println(\"Even\");<br>} else {<br>    System.out.println(\"Odd\");<br>}</code></pre>",
+            "options": [
+                "Even",
+                "Odd",
+                "Error",
+                "Nothing"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the correct syntax for an if-else statement in Java?",
+            "options": [
+                "if (condition) { ... } else { ... }",
+                "if condition { ... } else { ... }",
+                "if (condition) ... else ...",
+                "if (condition): ... else: ..."
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "How many times does this for loop execute?<br><br><pre><code class=\"language-java\">for(int i = 1; i <= 5; i++) {<br>    System.out.println(i);<br>}</code></pre>",
+            "options": [
+                "4",
+                "5",
+                "6",
+                "Infinite"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the output of this code?<br><br><pre><code class=\"language-java\">int i = 0;<br>while(i < 3) {<br>    System.out.print(i + \" \");<br>    i++;<br>}</code></pre>",
+            "options": [
+                "0 1 2",
+                "0 1 2 3",
+                "1 2 3",
+                "Infinite loop"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of the following is NOT a primitive data type in Java?",
+            "options": [
+                "int",
+                "String",
+                "double",
+                "boolean"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does this code do?<br><br><pre><code class=\"language-java\">Scanner input = new Scanner(System.in);<br>String name = input.nextLine();<br>System.out.println(\"Hello \" + name);</code></pre>",
+            "options": [
+                "Reads an integer from the user",
+                "Reads a string from the user",
+                "Reads a boolean from the user",
+                "Causes a compile error"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the output of this code?<br><br><pre><code class=\"language-java\">int a = 10;<br>int b = 3;<br>System.out.println(a / b);</code></pre>",
+            "options": [
+                "3.333",
+                "3",
+                "4",
+                "3.0"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following correctly uses the Math class to find the maximum of two numbers?",
+            "options": [
+                "Math.max(5, 10)",
+                "Math.maximum(5, 10)",
+                "Math.max(5, 10);",
+                "Both A and C"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What is the output of this code?<br><br><pre><code class=\"language-java\">for(int i = 0; i < 5; i++) {<br>    if(i == 3) {<br>        break;<br>    }<br>    System.out.print(i + \" \");<br>}</code></pre>",
+            "options": [
+                "0 1 2 3",
+                "0 1 2",
+                "0 1 2 3 4",
+                "0 1 2 4"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which statement about the main method is correct?<br><br><pre><code class=\"language-java\">public static void main(String[] args)</code></pre>",
+            "options": [
+                "It must always be the first method in a class",
+                "It is the entry point for Java programs",
+                "It can have any name",
+                "It returns an integer"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the value of result after this code executes?<br><br><pre><code class=\"language-java\">int result = (int)(Math.pow(2, 3));<br>System.out.println(result);</code></pre>",
+            "options": [
+                "6",
+                "8",
+                "9",
+                "8.0"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the purpose of the Scanner class in Java?",
+            "options": [
+                "To write output to the console",
+                "To read input from the user",
+                "To perform mathematical operations",
+                "To create graphical user interfaces"
+            ],
+            "correctAnswer": 1
+        }
+    ]
+}

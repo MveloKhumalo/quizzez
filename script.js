@@ -12,6 +12,9 @@ class QuizApp {
         
         // Quiz folder structure (configure here for stable modification)
         this.quizFolders = {
+            "comp102 Material 2026" : [
+                'Quiz/comp102_20266/comp102_2026_1.json',
+            ],
             "QUIZZEZ intro quiz": [
                 'Quiz/intro_quiz.json',
             ],
