@@ -1,7 +1,7 @@
 {
   "title": "Java Arrays Quiz - 1",
   "questions": [
-    {
+    { 
       "question": "What will happen if you try to access an index that is out of bounds in a Java array?",
       "options": ["It returns null", "It throws ArrayIndexOutOfBoundsException", "It returns 0", "It prints an error and continues"],
       "correctAnswer": 1
