@@ -1,0 +1,205 @@
+{
+    "title": "Computer Organization and Architecture - Quiz 1 (2023)",
+    "questions": [
+        {
+            "question": "Which of the following represents the four basic functions that a computer can perform?",
+            "options": [
+                "Data processing, data storage, data editing and control",
+                "Data processing, data storage, data communication and control",
+                "Data processing, data editing, data communication and control",
+                "Data editing, data storage, data communication and control"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "During the execution cycle in the IAS computer, what happens?",
+            "options": [
+                "Decode opcode in MBR and execute instruction",
+                "Decode opcode in IRB and execute instruction",
+                "Decode opcode in MAR and execute instruction",
+                "Decode opcode in IBR and execute instruction"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following is a member of the 2nd generation of computers?",
+            "options": [
+                "DEC PDP-8",
+                "IBM System/360",
+                "IBM 7094",
+                "IAS Computer"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of the following is incorrect about cache memory? [DIAGRAM: Figure showing memory hierarchy with L1, L2, L3 cache and main memory]",
+            "options": [
+                "L n is smaller and faster than L n+1",
+                "L n is smaller than the main memory",
+                "Multiple layers of memory (L1, L2, etc.) between processors and main memory",
+                "Use to slow memory access"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Which of the following list represents the chronological evolution of computer technologies?",
+            "options": [
+                "Transistors, Vacuum tubes, integrated circuits, SSI, LSI, VLSI, semiconductor memory, microprocessor",
+                "Vacuum tubes, transistors, integrated circuits, SSI, LSI, VLSI, semiconductor memory, microprocessor",
+                "Vacuum tubes, transistors, SSI, LSI, VLSI, integrated circuits, semiconductor memory, microprocessor",
+                "Transistors, integrated circuits, Vacuum tubes, SSI, LSI, VLSI, semiconductor memory, microprocessor"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the difference between computer architecture and computer organization?",
+            "options": [
+                "Architecture refers to visible attributes to the programmer, organization refers to how features are implemented",
+                "Architecture and organization are the same thing",
+                "Organization refers to visible attributes, architecture refers to implementation",
+                "Architecture refers to software, organization refers to hardware"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What are the four main structural components of a computer?",
+            "options": [
+                "ALU, control unit, registers, and memory",
+                "CPU, main memory, I/O, and system interconnection",
+                "Input, output, processing, and storage",
+                "Processor, cache, RAM, and hard drive"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What are the three major structural components of the CPU?",
+            "options": [
+                "Control unit, ALU, and registers",
+                "Cache, RAM, and ROM",
+                "Processor, memory, and I/O",
+                "Input unit, output unit, and processing unit"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Who is credited with the stored program concept?",
+            "options": [
+                "Alan Turing",
+                "John von Neumann",
+                "Charles Babbage",
+                "Ada Lovelace"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In which year was the IAS computer completed?",
+            "options": [
+                "1945",
+                "1948",
+                "1950",
+                "1952"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Which IBM system architecture was introduced in 1970 and allowed customers to upgrade to faster models without abandoning software?",
+            "options": [
+                "IBM System/360",
+                "IBM System/370",
+                "IBM System/390",
+                "IBM System/360"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is Moore's Law primarily about?",
+            "options": [
+                "The number of transistors on a chip doubles approximately every two years",
+                "Computer speed doubles every year",
+                "Memory capacity doubles every six months",
+                "Computer prices halve every year"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the function of cache memory in a computer system?",
+            "options": [
+                "To permanently store data",
+                "To speed up memory access by storing frequently used data",
+                "To replace main memory",
+                "To store the operating system"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following best describes a multicore processor?",
+            "options": [
+                "A processor with multiple cache levels",
+                "A processor with multiple cores on a single chip",
+                "A processor with multiple memory controllers",
+                "A processor with multiple I/O channels"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What was the main technology used in first generation computers?",
+            "options": [
+                "Transistors",
+                "Integrated circuits",
+                "Vacuum tubes",
+                "Microprocessors"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the Internet of Things (IoT) primarily characterized by?",
+            "options": [
+                "Large mainframe computers",
+                "Billions of interconnected embedded devices and sensors",
+                "Personal computers only",
+                "Wireless networks only"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the difference between an application processor and a dedicated processor in embedded systems?",
+            "options": [
+                "Application processors are slower than dedicated processors",
+                "Application processors are general-purpose while dedicated processors are designed for specific tasks",
+                "Dedicated processors are more expensive than application processors",
+                "There is no difference between them"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which component is responsible for managing the computer's resources and orchestrating the performance of its functional parts?",
+            "options": [
+                "ALU",
+                "Control unit",
+                "Registers",
+                "Main memory"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is a deeply embedded system characterized by?",
+            "options": [
+                "Complex user interfaces",
+                "General-purpose computing capabilities",
+                "Difficult to observe behavior and extreme resource constraints",
+                "Large memory capacity"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the fundamental building block used to construct processors, memories, and other digital logic devices?",
+            "options": [
+                "Integrated circuit",
+                "Transistor",
+                "Vacuum tube",
+                "Resistor"
+            ],
+            "correctAnswer": 1
+        }
+    ]
+}
