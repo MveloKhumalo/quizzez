@@ -15,9 +15,9 @@ class QuizApp {
             "comp102 Material 2026" : [
                 'Quiz/comp102_20266/comp102_2026_1.json',
             ],
-            "QUIZZEZ intro quiz": [
-                'Quiz/intro_quiz.json',
-            ],
+            // "QUIZZEZ intro quiz": [
+            //     'Quiz/intro_quiz.json',
+            // ],
             "Comp201 material": [
                 'Quiz/comp201/comp201_1.json',
                 'Quiz/comp201/comp201_2.json',
@@ -33,22 +33,22 @@ class QuizApp {
                 'Quiz/comp201/comp201_12.json',
                 'Quiz/comp201/comp201_13.json'
             ],
-            "istn212 material": [
-                'Quiz/istn212/istn212_1.json',
-                'Quiz/istn212/istn212_2.json',
-                'Quiz/istn212/istn212_3.json',
-                'Quiz/istn212/istn212_4.json',
-                'Quiz/istn212/istn212_5.json',
-                'Quiz/istn212/istn212_6.json',
-                'Quiz/istn212/istn212_7.json'
-            ],
-            "Comp102 material": [
-                'Quiz/comp102/comp102_1.json',
-                'Quiz/comp102/comp102_2.json',
-                'Quiz/comp102/comp102_3.json',
-                'Quiz/comp102/comp102_4.json',
-                'Quiz/comp102/comp102_5.json'
-            ],
+            // "istn212 material": [
+            //     'Quiz/istn212/istn212_1.json',
+            //     'Quiz/istn212/istn212_2.json',
+            //     'Quiz/istn212/istn212_3.json',
+            //     'Quiz/istn212/istn212_4.json',
+            //     'Quiz/istn212/istn212_5.json',
+            //     'Quiz/istn212/istn212_6.json',
+            //     'Quiz/istn212/istn212_7.json'
+            // ],
+            // "Comp102 material": [
+            //     'Quiz/comp102/comp102_1.json',
+            //     'Quiz/comp102/comp102_2.json',
+            //     'Quiz/comp102/comp102_3.json',
+            //     'Quiz/comp102/comp102_4.json',
+            //     'Quiz/comp102/comp102_5.json'
+            // ],
             "Comp204 material": [
                 'Quiz/comp204/comp204_1.json',
                 'Quiz/comp204/comp204_2.json',
@@ -56,10 +56,10 @@ class QuizApp {
                 'Quiz/comp204/comp204_4.json',
                 'Quiz/comp204/comp204_5.json',
             ],
-            "Comp315 material": [
-                'Quiz/comp315/comp315_1.json',
-                'Quiz/comp315/comp315_2.json',
-            ]
+            // "Comp315 material": [
+            //     'Quiz/comp315/comp315_1.json',
+            //     'Quiz/comp315/comp315_2.json',
+            // ]
         };
         
         this.initializeEventListeners();
